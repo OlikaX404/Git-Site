@@ -1,8 +1,8 @@
 //Replace With Your Own Github Username
-const Github_Username = "cachecleanerjeet";
+const Github_Username = "OlikaX404";
 
 //Replace With Your Own Email ID
-const Email_Id = "me@thetuhin.com";
+const Email_Id = "olikaamsalu8@gmail.com";
 
 var xhr = new XMLHttpRequest();
 xhr.addEventListener("readystatechange", function() {
@@ -32,6 +32,6 @@ function mailF() {
 }
 
 /*!
- * Made by Tuhin Kanti Pal
+ * Made by 
  * Visit https://tu.hin.life
  */
